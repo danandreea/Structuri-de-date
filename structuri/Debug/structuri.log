@@ -1,0 +1,303 @@
+﻿  HEAPMIN  -Platforma.cpp
+  Arbore-lista-hash Hotel.cpp
+  Arbore_ListaDubla_Camera.cpp
+  arbori_ciurea.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(24,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(150,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(326,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(329,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(332,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(341,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(343,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(345,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\arbori_ciurea.cpp(347,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ABC-Lista simpla -eu.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\deead\Desktop\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla -eu.cpp(157,9): warning C4101: 'a': unreferenced local variable
+  structuri cu citire fisier.cpp
+C:\Users\deead\Desktop\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla -eu.cpp(192,9): warning C4101: 'a': unreferenced local variable
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(4,3): error C2632: 'int' followed by 'char' is illegal
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(5,7): error C2062: type 'char' unexpected
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(7,3): error C2632: 'float' followed by 'int' is illegal
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(8,3): error C2632: 'float' followed by 'int' is illegal
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(9,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(9,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(22,14): error C2065: 'FILE': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(22,20): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(22,23): error C2448: 'citireFis': function-style initializer appears to be a function definition
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(50,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(50,5): error C2146: syntax error: missing ';' before identifier 'inserareLDdeLaSfarsit'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(51,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(51,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(74,2): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,20): error C2039: 'cod': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,39): error C2039: 'nume': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,61): error C2039: 'functie': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,83): error C2039: 'salariu': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,104): error C2039: 'varsta': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(77,130): error C2039: 'gradFunctie': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(76,3): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(80,2): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,20): error C2039: 'cod': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,39): error C2039: 'nume': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,61): error C2039: 'functie': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,83): error C2039: 'salariu': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,104): error C2039: 'varsta': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(84,130): error C2039: 'gradFunctie': is not a member of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(2): message : see declaration of 'x'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(83,3): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(89,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(90,2): error C2065: 'FILE': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(90,8): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(91,11): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(91,2): error C3861: 'fopen_s': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(94,2): error C2065: 'angajat': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(94,11): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(94,31): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(95,9): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(95,2): error C3861: 'fclose': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,4): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,20): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,37): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,57): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,77): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(98,96): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(97,3): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(100,2): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(103,33): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(104,31): error C2065: 'angVect': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(104,2): error C3861: 'inserareLDdeLaSfarsit': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(147,22): error C3861: 'strlen': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(155,23): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(157,24): error C3861: 'malloc': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(159,50): error C3861: 'strlen': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(159,27): error C3861: 'malloc': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(160,3): error C3861: 'strcpy': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(161,52): error C3861: 'strlen': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(161,29): error C3861: 'malloc': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(162,3): error C3861: 'strcpy': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(165,15): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(166,29): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(182,23): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(186,28): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(187,5): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(191,6): error C3861: 'printf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(205,23): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(207,28): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(211,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(212,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(213,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(217,3): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(223,23): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(225,29): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(229,8): error C3861: 'strcmp': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(230,37): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(232,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(233,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(234,27): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(239,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(240,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(245,26): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(245,34): error C3861: 'strcmp': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(248,20): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(250,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(251,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(254,19): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(255,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(256,6): error C3861: 'free': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(265,12): error C2556: 'int main(void)': overloaded function differs only by return type from 'int main(void)'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(88): message : see declaration of 'main'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(265,12): error C2084: function 'int main(void)' already has a body
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(88): message : see previous definition of 'main'
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(269,22): error C3861: 'malloc': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(271,17): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(274,16): error C2065: 'NULL': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(275,2): error C2065: 'FILE': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(275,8): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(275,12): error C3861: 'fopen': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(278,9): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(278,2): error C3861: 'fscanf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(280,10): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(280,3): error C3861: 'fscanf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(281,10): error C2065: 'f': undeclared identifier
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(281,3): error C3861: 'fscanf': identifier not found
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(282,27): error C3861: 'strlen': identifier not found
+  coada_fisier.cpp
+C:\Users\deead\Desktop\Templates\Citiri fisier\structuri cu citire fisier.cpp(282,38): fatal error C1003: error count exceeds 100; stopping compilation
+  Grafuri_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_fisier.cpp(151,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HASH-Liste.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\Grafuri_dita.cpp(419,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stiva-Lista dimpla.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\HASH-Liste.cpp(270,10): warning C4129: 'N': unrecognized character escape sequence
+  hash_ciuea.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\Stiva-Lista dimpla.cpp(181,9): warning C4129: ' ': unrecognized character escape sequence
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(38,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(144,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(147,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(162,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(165,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(168,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\hash_ciuea.cpp(171,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  heap_ciurea.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(85,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(112,33): error C2440: 'initializing': cannot convert from 'const char [7]' to 'char *'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(112,19): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(89,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(98,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(100,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(102,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\heap_ciurea.cpp(104,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lista_dubla_conversiearbore.cpp
+  lista_dubla_fisier.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  lista_simpla_fisier.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_fisier.cpp(276,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LSLP_ciurea.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_fisier.cpp(200,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(29,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(106,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(109,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(120,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(123,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(126,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\LSLP_ciurea.cpp(129,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  matrice_rara.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  lista_simpla_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\matrice_rara.cpp(118,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lista_dubla_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_dita.cpp(281,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  lista_simpla_ciurea.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_dita.cpp(335,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(27,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(69,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(72,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(81,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(83,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(85,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(87,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_ciurea.cpp(89,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\matrice_rara.cpp(42): warning C4715: 'citire_matrice_fisier': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\matrice_rara.cpp(92): warning C4715: 'conversie_catre_mr': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_simpla_fisier.cpp(88): warning C4715: 'initializare_lista_fisiser': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_fisier.cpp(97): warning C4715: 'initializare_lista_fisier': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_conversiearbore.cpp(153): warning C4715: 'initializare_lista_fisier': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\HASH-Liste.cpp(260): warning C4715: 'stergere_cheie': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_fisier.cpp(88): warning C4715: 'get': not all control paths return a value
+C:\Users\deead\Desktop\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla -eu.cpp(188): warning C4715: 'extrageAparat': not all control paths return a value
+C:\Users\deead\Desktop\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla - APELECTROCASNIC\ABC-Lista simpla -eu.cpp(223): warning C4715: 'modificaPret': not all control paths return a value
+  Compiling...
+  lista_dubla_ciurea.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\HEAPMIN  -Platforma.cpp(136): warning C4715: 'extragere_heap': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(27,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(147,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(149,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(151,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(160,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(162,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(164,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(166,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(168,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\lista_dubla_ciurea.cpp(194,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HeapMIN-Arbore.cpp
+  stiva_ciurea.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(40,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(66,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(115,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(144,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(149,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(153,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_ciurea.cpp(155,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  coada_ciurea.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(30,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(51,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(73,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(93,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(147,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(152,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(154,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(156,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\coada_ciurea.cpp(158,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  stiva_coada_dita.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  stiva_fisier.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_coada_dita.cpp(177,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HASH_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\stiva_fisier.cpp(181,9): warning C4129: ' ': unrecognized character escape sequence
+  HEAP_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\HASH_dita.cpp(244,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ABC_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\HEAP_dita.cpp(220,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  AVL_dita.cpp
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\ABC_dita.cpp(252,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source.cpp
+  Generating Code...
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\AVL_dita.cpp(232,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\ABC_dita.cpp(182): warning C4715: 'cautare_cod': not all control paths return a value
+E:\facultate\an2sem2\diverse an II sem II\sem2\SD\structuri\structuri\HEAP_dita.cpp(212): warning C4715: 'extragere_heap': not all control paths return a value
